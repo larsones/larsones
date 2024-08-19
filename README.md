@@ -1,5 +1,13 @@
-## Hi there 👋, welcome to my GitHub page.
-## My name is Eric Larson, I am a graduate of **Indiana University🎓** where I studied Computer Science with a minor in Business.  I am currently looking for full-time software development and engineering positions 
+# Hi there 👋, welcome to my GitHub page.
+# My name is Eric Larson, I am a graduate of **Indiana University🎓** where I studied Computer Science with a minor in Business.  I am currently looking for full-time software development and engineering positions 
+
+<br/><br/>
+
+# **🛠️ &nbsp;Languages and Tools**
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Javascript Icon" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 
 <!--
