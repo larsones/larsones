@@ -12,6 +12,11 @@
 <img align="left" alt="Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" />
 <img align="left" alt="NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
+<br/>
+
+# **🌱 &nbsp;Currently learning **
+
+
 <!--
 **larsones/larsones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
