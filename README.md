@@ -8,8 +8,8 @@
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Javascript Icon" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-
-
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
 <!--
 **larsones/larsones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
