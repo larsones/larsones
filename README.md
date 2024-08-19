@@ -2,7 +2,7 @@
 # My name is Eric Larson, I am a graduate of **Indiana University🎓** where I studied Computer Science with a minor in Business.  I am currently looking for full-time software development and engineering positions 
 
 <br/><br/>
-[![LinkedIn Logo](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)(https://www.linkedin.com/in/eric-larson-iu/)] [![Email Logo](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png)(mailto:elarson3978@gmail.com)]
+[![LinkedIn Logo](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/eric-larson-iu/) [![Email Logo](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png)](mailto:elarson3978@gmail.com)
 
 
 # **🛠️ &nbsp;Languages and Tools**
