@@ -26,7 +26,7 @@ My name is Eric Larson, I am a graduate of **Indiana University🎓** where I st
 # **🌱 &nbsp;Currently Learning**
 
 
-# **:octocat: &nbsp;GitHub Stats**
+# **🤖 &nbsp;GitHub Stats**
 
 
 
