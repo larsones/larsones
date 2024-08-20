@@ -27,7 +27,7 @@ My name is Eric Larson, I am a graduate of **Indiana University🎓** where I st
 
 
 # **🤖 &nbsp;GitHub Stats**
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larsones&theme=algolia&hide_border=true)
 
 
 <!--
