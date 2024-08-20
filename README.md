@@ -14,7 +14,7 @@
 <img align="left" alt="NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
 <br/>
 
-# **🌱 &nbsp;Currently learning **
+# **🌱 &nbsp;Currently Learning**
 
 
 <!--
