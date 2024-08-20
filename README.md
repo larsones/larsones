@@ -16,12 +16,11 @@ My name is Eric Larson, I am a graduate of **Indiana University🎓** where I st
 
 # **🛠️ &nbsp;Languages and Tools**
 
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Javascript Icon" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" />
-<img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" />
-<img align="left" alt="NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
+| Languages | Frameworks | Software Tools |
+| :-------: | :---------: | :------------: |
+| <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> | <img align="left" alt="ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" /> | <img align="left" alt="Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> |
+| <img align="left" alt="Javascript Icon" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" /> | <img align="left" alt="NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" /> |  |
+| <img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> | |  |
 <br/>
 
 # **🌱 &nbsp;Currently Learning**
