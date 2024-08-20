@@ -1,11 +1,21 @@
 # Hi there 👋, welcome to my GitHub page.
-# My name is Eric Larson, I am a graduate of **Indiana University🎓** where I studied Computer Science with a minor in Business.  I am currently looking for full-time software development and engineering positions 
+<br/>
 
-<br/><br/>
-[![LinkedIn Logo](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/eric-larson-iu/) [![Email Logo](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png)](mailto:elarson3978@gmail.com)
+# **🆔 &nbsp; About Me**
+
+My name is Eric Larson, I am a graduate of **Indiana University🎓** where I studied Computer Science with a minor in Business.  I am currently looking for full-time software development and engineering positions 
+
+<br/>
+
+# **📇 &nbsp; Contact me**
+
+[![LinkedIn Logo](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/eric-larson-iu/) 
+[![Email Logo](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png)](mailto:elarson3978@gmail.com)
+<br/>
 
 
 # **🛠️ &nbsp;Languages and Tools**
+
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Javascript Icon" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" />
 <img align="left" alt="HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
