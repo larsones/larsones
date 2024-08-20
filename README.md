@@ -9,7 +9,7 @@ My name is Eric Larson, I am a graduate of **Indiana University🎓** where I st
 
 # **📇 &nbsp; Contact me**
 | LinkedIn | Email |
-| :------- | ----: |
+| :------- | :----: |
 |[![LinkedIn Logo](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/eric-larson-iu/) | [![Email Logo](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png)](mailto:elarson3978@gmail.com) |
 <br/>
 
