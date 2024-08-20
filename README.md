@@ -26,6 +26,10 @@ My name is Eric Larson, I am a graduate of **Indiana University🎓** where I st
 # **🌱 &nbsp;Currently Learning**
 
 
+# **:octocat: &nbsp;GitHub Stats**
+
+
+
 <!--
 **larsones/larsones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
